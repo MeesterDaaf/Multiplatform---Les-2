@@ -4,6 +4,10 @@ PHP - Variabelen en Datatypes
 
 ## Les 2
 
+### Hulp
+
+https://github.com/ROC-van-Amsterdam-College-Amstelland/Docs
+
 ### Leerdoelen
 
 1. [ ] Ik codeer variabelen
