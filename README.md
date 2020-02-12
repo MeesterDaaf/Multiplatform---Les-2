@@ -1,8 +1,6 @@
 # Op3 - Multiplatform
 
-# Multiplatform---
 PHP - Variabelen en Datatypes
-
 
 ## Les 2
 
